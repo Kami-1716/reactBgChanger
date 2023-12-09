@@ -1,8 +1,4 @@
-# React + Vite
+# Background changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a very simple app which i created using reac js as i am new to react so helped me learning it and learning git as well. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
